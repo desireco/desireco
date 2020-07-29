@@ -6,7 +6,7 @@ Another thing that I am really interested is Generative Systems, which is kind o
 
 My tools of choice at the moment are: Javascript/Typescript, React, Svelte, Elixir and Phoenix, NextJS, TailWinds. Fantastic Ruby and Rails, kind of fell out of fashion, it makes me sad, but it is how things are.
 
-Another topic I am super into is Knowledge Management and Zettelkasten System of notes.
+Another topic I am very much interested in is Knowledge Management and Zettelkasten System of notes specifically. 
 
 If you need me, you can reach me at zeljko at hey dot com. Or same at gmail.
 
