@@ -10,6 +10,5 @@ My tools of choice at the moment are: Javascript/Typescript, React, Svelte, Elix
 
 Another topic I am very much interested in is Knowledge Management and Zettelkasten System of notes specifically. 
 
-If you need me, you can reach me at zeljko at hey dot com. Or same at gmail.
+If you need me, you can reach me at zeljko at gmail dot com. Or zeljko at hey dot com.
 
-Default pronouns.
